@@ -1,0 +1,7 @@
+C:\Programmering\LiarsDice\LiarsDice\bin\Debug\LiarsDice.exe.config
+C:\Programmering\LiarsDice\LiarsDice\bin\Debug\LiarsDice.exe
+C:\Programmering\LiarsDice\LiarsDice\bin\Debug\LiarsDice.pdb
+C:\Programmering\LiarsDice\LiarsDice\obj\Debug\LiarsDice.csprojAssemblyReference.cache
+C:\Programmering\LiarsDice\LiarsDice\obj\Debug\LiarsDice.csproj.CoreCompileInputs.cache
+C:\Programmering\LiarsDice\LiarsDice\obj\Debug\LiarsDice.exe
+C:\Programmering\LiarsDice\LiarsDice\obj\Debug\LiarsDice.pdb
